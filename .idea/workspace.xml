@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2928216-7478-43ed-8250-2e9d463ed0f1" name="Changes" comment="" />
+    <list default="true" id="c2928216-7478-43ed-8250-2e9d463ed0f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/some-basic-problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armstrong_Number_range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armstrong_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factor_Of_A_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibinacci_Series_Upto_N_term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci_Series_Nth_term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Power_Of_A_Number.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ECJ2yeFgpV4EQQh76TBI1osob9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +45,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Armstrong_Number_range">
+    <configuration name="Armstrong_Number_range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrong_Number_range" />
+      <module name="some-basic-problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial_Number" />
+      <module name="some-basic-problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibinacci_Series_Upto_N_term" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibinacci_Series_Upto_N_term" />
+      <module name="some-basic-problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome_Number" />
+      <module name="some-basic-problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum_Of_Digits_Of_a_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_Of_Digits_Of_a_Number" />
+      <module name="some-basic-problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Armstrong_Number_range" />
+        <item itemvalue="Application.Fibinacci_Series_Upto_N_term" />
+        <item itemvalue="Application.Sum_Of_Digits_Of_a_Number" />
+        <item itemvalue="Application.Palindrome_Number" />
+        <item itemvalue="Application.Factorial_Number" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
